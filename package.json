@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "api-training",
+  "description": "This is a website that shows some stats of [StackBuilders](https://github.com/stackbuilders)' github.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SbsCruz/api-github-training.git"
+  },
+  "author": "Sebastian Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SbsCruz/api-github-training/issues"
+  },
+  "homepage": "https://github.com/SbsCruz/api-github-training#readme"
+}
