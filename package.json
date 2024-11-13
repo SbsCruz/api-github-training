@@ -5,11 +5,13 @@
   "name": "api-training",
   "description": "This is a website that shows some stats of [StackBuilders](https://github.com/stackbuilders)' github.",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "index.html",
   "directories": {
     "test": "tests"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jest-environment-jsdom": "^29.7.0"
+  },
   "scripts": {
     "test": "jest"
   },
